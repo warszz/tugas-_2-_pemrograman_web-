@@ -6,7 +6,8 @@ let data = [
   { title: "Galeri", link: "galeri.html" },
   { title: "Artikel", link: "artikel.html" },
   { title: "Contact", link: "contact.html" },
-  { title: "Profile", link: "profil.html" }
+  { title: "Profile", link: "profil.html" },
+  { title: "boc ubp", link: "https://elearning.ubpkarawang.ac.id/" }
 ];
 
 const searchInput = document.getElementById("search");
